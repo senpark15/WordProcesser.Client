@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "WordProcessor-Client"
+    }
+  },
+  "defaultProject": "WordProcessor-Client",
+  "cli": {
+    "analytics": "a6aa5847-670e-48d0-a64f-cee31e177a80"
+  }
 }
